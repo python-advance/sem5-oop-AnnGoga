@@ -1,0 +1,18 @@
+>> Conference <<
+Date: 31/10/2018
+Id: 6f1edd5882964f34a5a4c86b00d12792
+Name: Google I/O
+Description: I/O brings together developers from around the globe annually for talks, hands-on learning with Google experts, and a first look at Google's latest developer product
+
+>> Members <<
+Nickname: Anna
+Name: Ann
+Surname: Golubeva
+Email: mrako142@gmail.com
+Birthday: 01/03/1999
+
+Nickname: Ksena
+Name: Ksusha
+Surname: Go
+Email: mrako142@mail.ru
+Birthday: 01/01/1997
